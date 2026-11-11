@@ -1,0 +1,15 @@
+{
+  "campaigns": [
+    {
+      "app_name": "Bugs Arena",
+      "package_name": "com.webtecs.bugs_arena",
+      "campaign_name": "Closed testing - Closed test 1",
+      "testers": [
+        {
+          "name": "w-e-b-t-e-c-s",
+          "joined_at": "2026-11-11"
+        }
+      ]
+    }
+  ]
+}
