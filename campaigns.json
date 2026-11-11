@@ -3,6 +3,7 @@
     {
       "app_name": "Bugs Arena",
       "package_name": "com.webtecs.bugs_arena",
+      "join_link": "https://play.google.com/apps/testing/com.webtecs.bugs_arena",
       "campaign_name": "Closed testing - Closed test 1",
       "testers": [
         {
